@@ -1,2 +1,2 @@
-# vue-calendar-scheduler
+# vue-monthly-calendar
 A scheduler component for VueJs
