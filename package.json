@@ -1,0 +1,28 @@
+{
+  "name": "@exandus/vue-calendar-scheduler",
+  "version": "0.0.1",
+  "description": "A light weight scheduler component for VueJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exandus/vue-calendar-scheduler.git"
+  },
+  "keywords": [
+    "scheduler",
+    "vuejs",
+    "component",
+    "calendar"
+  ],
+  "author": "Exandus, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Exandus/vue-calendar-scheduler/issues"
+  },
+  "homepage": "https://github.com/Exandus/vue-calendar-scheduler#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
