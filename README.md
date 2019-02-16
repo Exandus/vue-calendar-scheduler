@@ -1,2 +1,2 @@
 # vue-monthly-calendar
-A scheduler component for VueJs
+A very simple monthly calendar component with a lot of flexibility over the rendering of the cells.
