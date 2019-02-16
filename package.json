@@ -1,5 +1,5 @@
 {
-  "name": "@exandus/vue-calendar-scheduler",
+  "name": "@exandus/vue-monthly-calendar",
   "version": "0.0.1",
   "description": "A light weight scheduler component for VueJs",
   "main": "index.js",
