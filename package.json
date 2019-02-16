@@ -1,17 +1,16 @@
 {
   "name": "@exandus/vue-monthly-calendar",
   "version": "0.0.1",
-  "description": "A light weight scheduler component for VueJs",
+  "description": "A light weight monthly calendar component for VueJs",
   "main": "index.js",
   "scripts": {
     "test": "npm run unit"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Exandus/vue-calendar-scheduler.git"
+    "url": "git+https://github.com/Exandus/vue-monthly-calendar.git"
   },
   "keywords": [
-    "scheduler",
     "vuejs",
     "component",
     "calendar"
@@ -19,9 +18,9 @@
   "author": "Exandus, LLC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Exandus/vue-calendar-scheduler/issues"
+    "url": "https://github.com/Exandus/vue-monthly-calendar/issues"
   },
-  "homepage": "https://github.com/Exandus/vue-calendar-scheduler#readme",
+  "homepage": "https://github.com/Exandus/vue-monthly-calendar#readme",
   "publishConfig": {
     "access": "public"
   }
